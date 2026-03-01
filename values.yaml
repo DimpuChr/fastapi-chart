@@ -4,7 +4,7 @@
 
 replicaCount: 2
 image:
-  repository: dimpuchr/fast-api/
+  repository: dimpuchr/fast-api
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "fc17938790175480cbde41629553e6b931af1294"
